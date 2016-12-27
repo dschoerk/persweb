@@ -1,0 +1,20 @@
+
+.name-big {
+    font-size: 96px;
+    text-align: center;
+    font-family: "Lobster Two", serif;
+    #text-shadow: 0 0 0.3rem black;
+}
+
+.bgpattern {
+    background-image: url('../img/bg_pattern.png')
+}
+
+.bgclean {
+    background-color: white
+}
+
+.row > .card {
+    padding: 10px; 
+    margin: 0px;
+}
